@@ -1,1 +1,1 @@
-[!MyScreenshot](Screenshot1)
+[!Myscreenshot](Screenshot1)
